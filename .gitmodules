@@ -1,0 +1,9 @@
+[submodule "webmiddle.org/webmiddle"]
+	path = webmiddle.org/webmiddle
+	url = https://github.com/webmiddle/webmiddle
+[submodule "webmiddle.org/webmiddle-devtools"]
+	path = webmiddle.org/webmiddle-devtools
+	url = https://github.com/webmiddle/webmiddle-devtools
+[submodule "webmiddle.org/webmiddle-starter-app"]
+	path = webmiddle.org/webmiddle-starter-app
+	url = https://github.com/webmiddle/webmiddle-starter-app
