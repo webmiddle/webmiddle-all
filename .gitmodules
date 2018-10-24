@@ -8,5 +8,5 @@
 	path = webmiddle.org/webmiddle-starter-app
 	url = https://github.com/webmiddle/webmiddle-starter-app
 [submodule "webmiddle.github.io"]
-	path = webmiddle.github.io
+	path = webmiddle.org/webmiddle.github.io
 	url = https://github.com/webmiddle/webmiddle.github.io.git
